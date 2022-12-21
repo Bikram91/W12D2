@@ -21,3 +21,4 @@ class Api::UsersController < ApplicationController
       # front end can also send it as { username: 'bob', password: 'password' }
     end
 end
+
